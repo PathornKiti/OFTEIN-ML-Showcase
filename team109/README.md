@@ -45,16 +45,20 @@ pre-processing data and create one hot encoder for classifying with Neural netwo
 ![python import api.PNG](./pictures/4gridsearch.PNG)
 
 ### Training data in another way, Support vector classification.
+###A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problem by using linear model with gamma=scale
 ![python import api.PNG](./pictures/5SVC.PNG)
 
 ### Classification report of Support vector classification.
+### The prediction report and confusion matrix showing the efficiency of the model. 
 ![python import api.PNG](./pictures/6SVC2.PNG)
 
 ### Data visualization of the best model, support vector classification. 
+### This visualization show that RAM and internal memory  can classify into two group of price range with accuracy 0.9683 .
 [![classification visualization 1.png](https://i.postimg.cc/htdMRzgQ/classification-visualization-1.png)](https://postimg.cc/w19DhB19)
 
 
 ### Data visualization of the best model with plotty, support vector classification. 
+### Plotty of SVM show classification of 4 range in price range.
 [![classification visualization 2.png](https://i.postimg.cc/TwBm2QTV/classification-visualization-2.png)](https://postimg.cc/Kkr4JPkj)
 
 
